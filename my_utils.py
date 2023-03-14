@@ -94,3 +94,4 @@ def get_matches_timelines(match_id):
     return res1, res2
 
 print('git tests')
+print('git2 tests')
